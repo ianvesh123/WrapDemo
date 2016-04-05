@@ -2,7 +2,7 @@
 
 Download the 'jar' and 'Config.properties' and save them in a single folder
 
-Now, Open command prompt and enter the following command :
+Now, Open command prompt, naviagate to the created folderand enter the following command :
 
 java -jar TestWrap.jar
 
